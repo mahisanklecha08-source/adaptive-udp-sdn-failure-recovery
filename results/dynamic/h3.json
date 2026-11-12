@@ -1,0 +1,9 @@
+{
+  "sent_unique": 300,
+  "acknowledged": 300,
+  "unrecovered": 0,
+  "initial_attempt_timeouts": 0,
+  "delivery_rate_pct": 100.0,
+  "mean_delivery_latency_ms": 0.716,
+  "mean_last_attempt_rtt_ms": 0.716
+}

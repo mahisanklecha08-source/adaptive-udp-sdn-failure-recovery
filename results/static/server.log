@@ -1,0 +1,16 @@
+UDP server listening on 10.0.0.2:9000
+received seq=0 from 10.0.0.1 total_unique=1
+received seq=1 from 10.0.0.1 total_unique=2
+received seq=0 from 10.0.0.3 total_unique=3
+received seq=23 from 10.0.0.1 total_unique=50
+received seq=48 from 10.0.0.1 total_unique=100
+received seq=73 from 10.0.0.3 total_unique=150
+received seq=98 from 10.0.0.1 total_unique=200
+received seq=114 from 10.0.0.3 total_unique=250
+received seq=120 from 10.0.0.3 total_unique=300
+received seq=182 from 10.0.0.1 total_unique=350
+received seq=224 from 10.0.0.3 total_unique=400
+received seq=189 from 10.0.0.3 total_unique=450
+received seq=248 from 10.0.0.1 total_unique=500
+received seq=273 from 10.0.0.1 total_unique=550
+received seq=298 from 10.0.0.1 total_unique=600

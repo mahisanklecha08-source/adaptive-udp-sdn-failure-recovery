@@ -1,0 +1,17 @@
+{
+  "sent_unique": 600,
+  "acknowledged": 600,
+  "unrecovered": 0,
+  "initial_attempt_timeouts": 0,
+  "initial_attempt_timeout_pct": 0.0,
+  "sent_during_outage": 240,
+  "delivered_before_restore": 240,
+  "recovery_time_ms": 42.358,
+  "mean_delivery_latency_ms": 0.674,
+  "max_delivery_latency_ms": 8.632,
+  "mode": "dynamic",
+  "failure_ns": 1962713315222,
+  "restore_ns": 1968740010452,
+  "outage_seconds": 6,
+  "rate_per_client_pps": 20
+}
